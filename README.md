@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://pho.madebysource.com">
+  <a href="http://avocode.com">
     <img height="200" src="http://cdn.avocode.com/static/images/avocode.png?"/>
   </a>
 </p>
