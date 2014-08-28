@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://avocode.com">
-    <img height="200" src="http://cdn.avocode.com/static/images/avocode.png?"/>
+    <img height="200" src="http://cdn.avocode.com/images/preorder/logo.png?"/>
   </a>
 </p>
 
