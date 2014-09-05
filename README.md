@@ -10,9 +10,31 @@
 
 # Purpose of this repository
 
-We use this repository primarily for reporting issues.
-If you are beta tester of Avocode and found a bug or you have an idea for some feature enhancements, please create a new issue.
+The main purpose of this repository is for issue reporting. If you are Avocode beta tester and you found a bug or you have an awesome idea for some feature enhancements, please create a new issue in its recommended format.
+- [Reporting an issue](#issue)
+- [Submitting an idea or enhancement](#enhancement)
 
 # Changelog
 
-We can find release notes on [beta.avocode.com](http://beta.avocode.com/).
+The latest release notes can be found on [beta.avocode.com](http://beta.avocode.com/).
+
+<a name="issue"></a>
+## Reporting an issue
+If you found a bug, please report an issue in the following format:
+
+- Reproducibility:
+- Description:
+- Steps to reproduce:
+- Expected result:
+- Actual result:
+- OS and app versions:
+
+Also please include screenshots, if possible
+
+<a name="enhancement"></a>
+## Submitting an idea or enhancement
+If you have an idea or a suggestion for enhancement, don’t forget to include following:
+
+- Description:
+- Expected result:
+- Actual result:
