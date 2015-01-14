@@ -6,6 +6,8 @@
 
 # Avocode app
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/avocode/avocode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Design inspector for developers. Get CSS, SVG, image assets, fonts, colors. All without Photoshop or Sketch.
 
 # Purpose of this repository
