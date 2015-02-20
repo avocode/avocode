@@ -33,8 +33,4 @@ Also please include screenshots, if possible
 
 <a name="enhancement"></a>
 ## Submitting an idea or enhancement
-If you have an idea or a suggestion for enhancement, don’t forget to include following:
-
-- Description:
-- Expected result:
-- Actual result:
+Please submit and vote for your ideas on https://avocode.uservoice.com
