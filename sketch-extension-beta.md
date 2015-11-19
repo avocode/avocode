@@ -22,3 +22,8 @@ Since Sketch 3.4 you can simply double-click the extracted `Avocode Prerelease.s
 - The UI can be sometimes not styled properly, aspect ratio of artboard thumbnails is often not correct
 - It will take a quite time to load first time, the production build work much faster. Also this build is quite large, production release will be much smaller
 - Pages are not exported at all, we might add that later if there is enough interest.
+ 
+## Reporting bugs
+Please report bugs to team@avocode.com and include the `sketch-panels.log` file from Sketch Plugins folder
+
+Pugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in the window click the Settings icon in bottom left corner and select Show Plugins Folder... (or in Sketch 3.3 and older press Plugins -> Reveal Plugins)
