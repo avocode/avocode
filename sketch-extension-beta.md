@@ -1,4 +1,4 @@
-# Avocode Sketch Extension 3
+# Avocode Sketch Extension 3 Beta
 
 This is a major new version that allows selective syncing of Sketch artboards.
 
