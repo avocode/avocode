@@ -20,8 +20,9 @@ Since Sketch 3.4 you can simply double-click the extracted `Avocode Prerelease.s
 - Every time you sync just selected artboards of the documents, other artboards that you could have synced beforehand will disappear from the app. This is a top priority to fix right now
 - Social login doesn't work yet, you need to use your email&password
 - The UI can be sometimes not styled properly, aspect ratio of artboard thumbnails is often not correct
-- It will take a quite time to load first time, the production build work much faster. Also this build is quite large, production release will be much smaller
-- Pages are not exported at all, we might add that later if there is enough interest.
+- It will take quite a lot of time to load first time, the production build work much faster.
+- The beta build is quite large, production release will be much smaller
+- Pages are not exported at all, we might add that later if there is enough interest
  
 ## Reporting bugs
 Please report bugs to team@avocode.com and include the `sketch-panels.log` file from Sketch Plugins folder
