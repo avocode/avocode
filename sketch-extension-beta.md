@@ -1,6 +1,6 @@
 # Avocode Sketch Extension 3 Beta
 
-This is a major new version that allows selective syncing of Sketch artboards.
+This is a major new version that allows selective syncing of Sketch artboards. It can be installed alongside the old extension version 2.
 
 ## Installation
 1. Download the latest beta version from [here](https://manager.avocode.com/download/sketch-plugin-beta/mac/)
