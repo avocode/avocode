@@ -14,10 +14,9 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 3. You will find the plugin in Plugins -> Avodode Sync Prerelease
 
 ### Alternative: Install by double-clicking
-Since Sketch 3.4 you can simply double-click the extracted `Avocode Prerelease.sketchplugin` package and Sketch will install it for you. However the installation can take a long time as the package is over 150MB in size with many contained files. You can use the alternative installation guide above to save some time
+Since Sketch 3.4 you can simply double-click the extracted `Avocode Prerelease.sketchplugin` package and Sketch will install it for you. However the installation can take a long time as the package is around 100MB in size with many contained files. You can use the alternative installation guide above to save some time
 
 ## Known bugs
-- Every time you sync just selected artboards of the documents, other artboards that you could have synced beforehand will disappear from the app. This is a top priority to fix right now
 - Social login doesn't work yet, you need to use your email&password
 - The UI can be sometimes not styled properly, aspect ratio of artboard thumbnails is often not correct
 - It will take quite a lot of time to load first time, the production build work much faster.
