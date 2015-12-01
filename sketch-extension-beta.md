@@ -21,7 +21,7 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 - initial beta release
 
 ## Known bugs
-- App Store Sketch might not be able to open the extension due to sandboxing. Use the build from http://sketchapp.com/ if possible
+- App Store Sketch might not be able to open the extension due to sandboxing. Use the build from http://sketchapp.com/ if possible. But Sketch is [leaving App Store anyway](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store)
 - The UI can be sometimes not styled properly
 - It will take quite a lot of time to load first time, the production build work much faster.
 - The beta build is quite large, production release will be much smaller
