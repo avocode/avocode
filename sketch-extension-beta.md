@@ -8,7 +8,7 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 3. Double click the sketchplugin file inside. It will take a while to install (Sketch 3.4+ is required)
 
 ## Changelog
-### 3.0.0-prerelease2
+### 3.0.0-prerelease2 (December 1, 2015)
 - hide social login. When we release the plugin, Avocode App will login the extension for you
 - fixed aspect ratio of artboard thumbnails
 - when you update document, artboards you synced in the past will be preserved
@@ -17,7 +17,7 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 - sync progress bar
 - new window size and some other style fixes
 
-### 3.0.0-prerelease1
+### 3.0.0-prerelease1 (November 19, 2015)
 - initial beta release
 
 ## Known bugs
