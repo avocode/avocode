@@ -14,6 +14,8 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 - when you update document, artboards you synced in the past will be preserved
 - build is about 40% smaller
 - add update checker
+- sync progress bar
+- new window size and some other style fixes
 
 ### 3.0.0-prerelease1
 - initial beta release
