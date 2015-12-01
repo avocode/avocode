@@ -1,5 +1,5 @@
 # Avocode Sketch Extension 3 Beta
-This is a major new version that allows selective syncing of Sketch artboards. It can be installed alongside the old extension version 2.
+This is a major new version that allows selective syncing of Sketch artboards. It can be installed alongside the old extension version 2. This is how it looks:
 
 ![screenshot](https://1670620568.rsc.cdn77.org/new-sketch/68484a3cb2344bd9978b8481467a6b50/preview.png)
 
@@ -22,11 +22,11 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 - initial beta release
 
 ## Known bugs
-- App Store Sketch is not be able to open the extension due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store anyway](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store)
 - The UI can be sometimes not styled properly
+- After you sync a sketch document to a project once, you cannot change it to another project
 - It will take quite a lot of time to load first time, the production build work much faster.
-- The beta build is quite large, production release will be much smaller
 - Pages are not exported at all, we might add that later if there is enough interest
+- App Store Sketch is not be able to open the extension due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store anyway](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store)
  
 ## Reporting bugs
 Please report bugs to team@avocode.com and include the `sketch-panels.log` file from Sketch Plugins folder
