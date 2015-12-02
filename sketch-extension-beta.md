@@ -4,7 +4,7 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 ![screenshot](https://1670620568.rsc.cdn77.org/new-sketch/68484a3cb2344bd9978b8481467a6b50/preview.png)
 
 ## Installation
-0. If your trial expired already and want to try this version, give us an email at team@avocode.com and we will extend your trial.
+0. If your trial expired already and you want to try this version, give us an email at team@avocode.com and we will extend your trial.
 1. Download the latest beta version from [here](https://manager.avocode.com/download/sketch-plugin-beta/mac/)
 2. Open the DMG
 3. Double click the sketchplugin file inside. It will take a while to install (Sketch 3.4+ is required)
