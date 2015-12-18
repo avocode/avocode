@@ -25,7 +25,7 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 
 ## Known bugs
 - [#549 Plugin doesn't allow me to select anything on Yosemite](https://github.com/avocode/avocode/issues/549) - see [workaround](https://github.com/avocode/avocode/issues/549#issuecomment-161592860)
-- The UI can be sometimes not styled properly
+- you need to quit and re-launch sketch after you used the old extension (2.1.x) before opening Avocode Sync Prerelease
 - After you sync a sketch document to a project once, you cannot change it to another project
 - It will take quite a lot of time to load first time, the production build work much faster.
 - Pages are not exported at all, we might add that later if there is enough interest
