@@ -26,10 +26,10 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 ## Known bugs
 - [#549 Plugin doesn't allow me to select anything on Yosemite](https://github.com/avocode/avocode/issues/549) - see [workaround](https://github.com/avocode/avocode/issues/549#issuecomment-161592860)
 - you need to quit and re-launch sketch after you used the old extension (2.1.x) before opening Avocode Sync Prerelease
-- After you sync a sketch document to a project once, you cannot change it to another project
-- It will take quite a lot of time to load first time, the production build work much faster.
-- Pages are not exported at all, we might add that later if there is enough interest
-- App Store Sketch is not be able to open the extension due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store anyway](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store)
+- after you sync a sketch document to a project once, you cannot change it to another project
+- it will take quite a lot of time to load first time, the production build work much faster.
+- [ages are not exported at all, we might add that later if there is enough interest
+- app Store Sketch is not be able to open the extension due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store anyway](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store)
  
 ## Reporting bugs
 Please report bugs to team@avocode.com and include the `sketch-panels.log` file from Sketch Plugins folder
