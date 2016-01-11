@@ -11,6 +11,13 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 5. Open the extension in menu Plugins -> Avocode Sync Prerelease
 
 ## Changelog
+### 3.0.0-prerelease3 (January 11, 2016)
+- you can now change project of already synced documents
+- faster extension loading
+- added new succes state after the syncing is complete
+- Sketch Beta support
+- detect plugin framework collision and prevent from running in that case (if you run old one in the same Sketch session)
+
 ### 3.0.0-prerelease2 (December 1, 2015)
 - hide social login. When we release the plugin, Avocode App will login the extension for you
 - fixed aspect ratio of artboard thumbnails
@@ -26,9 +33,7 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 ## Known bugs
 - [#549 Plugin doesn't allow me to select anything on Yosemite](https://github.com/avocode/avocode/issues/549) - see [workaround](https://github.com/avocode/avocode/issues/549#issuecomment-161592860)
 - you need to quit and re-launch sketch after you used the old extension (2.1.x) before opening Avocode Sync Prerelease
-- after you sync a sketch document to a project once, you cannot change it to another project
-- it will take quite a lot of time to load first time, the production build work much faster.
-- [ages are not exported at all, we might add that later if there is enough interest
+- Sketch Pages are not exported at all, we might add that later if there is enough interest
 - app Store Sketch is not be able to open the extension due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store anyway](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store)
  
 ## Reporting bugs
