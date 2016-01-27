@@ -13,6 +13,7 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 ## Changelog
 ### 3.0.0-prerelease4 (January 22, 2016)
 - Sketch 3.5 support
+- Important note: this breaks Sketch 3.4 support at the moment! In case you need to remain using Sketch 3.4 (e.g. on OSX 10.9) don't update to this version
 
 ### 3.0.0-prerelease3 (January 11, 2016)
 - you can now change project of already synced documents
