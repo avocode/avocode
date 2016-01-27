@@ -1,7 +1,7 @@
 # Avocode Sketch Extension 3 Beta
 This is a major new version that allows selective syncing of Sketch artboards. It can be installed alongside the old extension version 2. This is how it looks:
 
-![screenshot](https://1670620568.rsc.cdn77.org/new-sketch/68484a3cb2344bd9978b8481467a6b50/preview.png)
+<img src="https://upx.cz/BfD" width="760" height="642">
 
 ## Installation & Update
 1. If your trial expired already and you want to try this version, give us an email at team@avocode.com and we will extend your trial.
