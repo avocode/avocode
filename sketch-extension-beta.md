@@ -11,6 +11,9 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 5. Open the extension in menu Plugins -> Avocode Sync Prerelease
 
 ## Changelog
+### 3.0.0-prerelease4 (January 22, 2016)
+- Sketch 3.5 support
+
 ### 3.0.0-prerelease3 (January 11, 2016)
 - you can now change project of already synced documents
 - faster extension loading
