@@ -3,7 +3,7 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 
 ![screenshot](https://1670620568.rsc.cdn77.org/new-sketch/68484a3cb2344bd9978b8481467a6b50/preview.png)
 
-## Installation
+## Installation & Update
 1. If your trial expired already and you want to try this version, give us an email at team@avocode.com and we will extend your trial.
 2. Completely Quit Sketch
 3. Download the latest beta version from [here](https://manager.avocode.com/download/sketch-plugin-beta/mac/)
