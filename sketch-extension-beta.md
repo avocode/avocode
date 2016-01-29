@@ -10,6 +10,19 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 4. Open the DMG and double click the sketchplugin file inside. It will take a while to install (will copy about 100MB of data, Sketch 3.4+ is required) and should open your Sketch afterwards
 5. Open the extension in menu Plugins -> Avocode Sync Prerelease
 
+## Known bugs
+- 3.0.0-prerelease4 only supports Sketch 3.5 and will fail on Sketch 3.4.x. You can download the older prerelease 3 from [here](https://media.avocode.com/download/sketch-plugin-beta/3.0.0-prerelase3/sketch-plugin-beta-mac-3.0.0-prerelase3.dmg)
+- [#549 Plugin doesn't allow me to select anything on Yosemite](https://github.com/avocode/avocode/issues/549) - see [workaround](https://github.com/avocode/avocode/issues/549#issuecomment-161592860)
+- you need to quit and re-launch sketch after you used the old extension (2.1.x) before opening Avocode Sync Prerelease
+- Sketch Pages are not exported at all, we might add that later if there is enough interest
+- if you use Sketch from App Store, the extension will not launch due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store) anyways
+ 
+## Reporting bugs
+Please report bugs to team@avocode.com and include the `sketch-panels.log` file from Sketch Plugins folder
+
+Pugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in the window click the Settings icon in bottom left corner and select Show Plugins Folder... (or in Sketch 3.3 and older press Plugins -> Reveal Plugins)
+
+
 ## Changelog
 ### 3.0.0-prerelease4 (January 22, 2016)
 - Sketch 3.5 support
@@ -33,15 +46,3 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 
 ### 3.0.0-prerelease1 (November 19, 2015)
 - initial beta release
-
-## Known bugs
-- 3.0.0-prerelease4 only supports Sketch 3.5 and will fail on Sketch 3.4.x. You can download the older prerelease 3 from [here](https://media.avocode.com/download/sketch-plugin-beta/3.0.0-prerelase3/sketch-plugin-beta-mac-3.0.0-prerelase3.dmg)
-- [#549 Plugin doesn't allow me to select anything on Yosemite](https://github.com/avocode/avocode/issues/549) - see [workaround](https://github.com/avocode/avocode/issues/549#issuecomment-161592860)
-- you need to quit and re-launch sketch after you used the old extension (2.1.x) before opening Avocode Sync Prerelease
-- Sketch Pages are not exported at all, we might add that later if there is enough interest
-- if you use Sketch from App Store, the extension will not launch due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store) anyways
- 
-## Reporting bugs
-Please report bugs to team@avocode.com and include the `sketch-panels.log` file from Sketch Plugins folder
-
-Pugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in the window click the Settings icon in bottom left corner and select Show Plugins Folder... (or in Sketch 3.3 and older press Plugins -> Reveal Plugins)
