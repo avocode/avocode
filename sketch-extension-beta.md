@@ -14,7 +14,7 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 - 3.0.0-prerelease4 only supports Sketch 3.5 and will fail on Sketch 3.4.x. You can download the older prerelease 3 from [here](https://media.avocode.com/download/sketch-plugin-beta/3.0.0-prerelase3/sketch-plugin-beta-mac-3.0.0-prerelase3.dmg)
 - [#549 Plugin doesn't allow me to select anything on Yosemite](https://github.com/avocode/avocode/issues/549) - see [workaround](https://github.com/avocode/avocode/issues/549#issuecomment-161592860)
 - you need to quit and re-launch sketch after you used the old extension (2.1.x) before opening Avocode Sync Prerelease
-- Sketch Pages are not exported at all, we might add that later if there is enough interest
+- Sketch Pages are not exported at all, we might add that later if there is enough interest. Please [vote here](http://avocode.uservoice.com/forums/277080-feature-voting/suggestions/11634147-support-exporting-pages-in-sketch-extension-3) if you need that feature
 - if you use Sketch from App Store, the extension will not launch due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store) anyways
  
 ## Reporting bugs
