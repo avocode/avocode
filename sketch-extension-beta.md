@@ -6,7 +6,9 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 ## Installation & Update
 1. If your trial expired already and you want to try this version, give us an email at team@avocode.com and we will extend your trial.
 2. Completely Quit Sketch
-3. Download the latest beta version from [here](https://manager.avocode.com/download/sketch-plugin-beta/mac/)
+3. Download the latest beta version
+
+   [<img src="https://upx.cz/Bfo" width="241" height="59">](https://manager.avocode.com/download/sketch-plugin-beta/mac/)
 4. Open the DMG and double click the sketchplugin file inside. It will take a while to install (will copy about 100MB of data, Sketch 3.4+ is required) and should open your Sketch afterwards
 5. Open the extension in menu Plugins -> Avocode Sync Prerelease
 
@@ -24,6 +26,10 @@ Pugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in t
 
 
 ## Changelog
+### 3.0.0 (January 29, 2016)
+- Brings back support for Sketch 3.4 and still supports latest Sketch 3.5.1
+- fixed few glitches with selecting project that made synced document not appear from Avocode App
+
 ### 3.0.0-prerelease4 (January 22, 2016)
 - Sketch 3.5 support
 - Important note: this breaks Sketch 3.4 support at the moment! In case you need to remain using Sketch 3.4 (e.g. on OSX 10.9) don't update to this version
