@@ -9,14 +9,16 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 3. Download the latest beta version
 
    [<img src="https://upx.cz/Bfo" width="241" height="59">](https://manager.avocode.com/download/sketch-plugin-beta/mac/)
-4. Open the DMG and double click the sketchplugin file inside. It will take a while to install (will copy about 100MB of data, Sketch 3.4+ is required) and should open your Sketch afterwards
-5. Open the extension in menu Plugins -> Avocode Sync Prerelease
+4. Open the DMG and double click the sketchplugin file inside. It should open your Sketch automatically and install / update the extension
+5. Open the extension in menu Plugins -> `Avocode Sync 3.1`
+   
+   <img src="https://upx.cz/BY6" width="229" height="129">
 
 ## Known bugs
 - [#549 Plugin doesn't allow me to select anything on Yosemite](https://github.com/avocode/avocode/issues/549) - see [workaround](https://github.com/avocode/avocode/issues/549#issuecomment-161592860)
-- you need to quit and re-launch sketch after you used the old extension (2.1.x) before opening Avocode Sync Prerelease
+- You need to quit and re-launch sketch after you used the old extension (2.1.x) before opening Avocode Sync Prerelease
 - Sketch Pages are not exported at all, we might add that later if there is enough interest. Please [vote here](http://avocode.uservoice.com/forums/277080-feature-voting/suggestions/11634147-support-exporting-pages-in-sketch-extension-3) if you need that feature
-- if you use Sketch from App Store, the extension will not launch due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store) anyways
+- If you use Sketch from App Store, the extension will not launch due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store) anyways
  
 ## Reporting bugs
 Please report bugs to team@avocode.com and include the `sketch-panels.log` file from Sketch Plugins folder
@@ -25,9 +27,13 @@ Pugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in t
 
 
 ## Changelog
+### 3.1.0 (January 29, 2016)
+- Fixed some errors that prevented 3.0.0 to launch
+- Changed the DMG and menu text
+
 ### 3.0.0 (January 29, 2016)
 - Brings back support for Sketch 3.4 and still supports latest Sketch 3.5.1
-- fixed few glitches with selecting project that made synced document not appear from Avocode App
+- Fixed few glitches with selecting project that made synced document not appear from Avocode App
 
 ### 3.0.0-prerelease4 (January 22, 2016)
 - Sketch 3.5 support
