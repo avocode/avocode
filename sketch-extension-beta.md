@@ -9,9 +9,9 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 
    [<img src="https://upx.cz/Bfo" width="241" height="59">](https://manager.avocode.com/download/sketch-plugin-beta/mac/)
 3. Open the DMG and double click the sketchplugin file inside. It should open your Sketch automatically and install / update the extension
-4. Open the extension in menu `Plugins -> Avocode Sync 3.1`
+4. Open the extension in menu `Plugins -> Avocode Sync 3.2`
    
-   <img src="https://upx.cz/BY6" width="229" height="129">
+   <img src="https://upx.cz/BZk" width="229" height="129">
 
 ## Known bugs
 - You need to quit and re-launch sketch after you used the old extension (2.1.x) before opening Avocode Sync Prerelease
