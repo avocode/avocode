@@ -14,7 +14,6 @@ This is a major new version that allows selective syncing of Sketch artboards. I
    <img src="https://upx.cz/BY6" width="229" height="129">
 
 ## Known bugs
-- [#549 Plugin doesn't allow me to select anything on Yosemite](https://github.com/avocode/avocode/issues/549) - see [workaround](https://github.com/avocode/avocode/issues/549#issuecomment-161592860)
 - You need to quit and re-launch sketch after you used the old extension (2.1.x) before opening Avocode Sync Prerelease
 - Sketch Pages are not exported at all, we might add that later if there is enough interest. Please [vote here](http://avocode.uservoice.com/forums/277080-feature-voting/suggestions/11634147-support-exporting-pages-in-sketch-extension-3) if you need that feature
 - If you use Sketch from App Store, the extension will not launch due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store) anyways
@@ -26,6 +25,12 @@ Pugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in t
 
 
 ## Changelog
+### 3.2.0 (February 10, 2016)
+- Added fix for users with Yosemite that were not able to control plugin correctly. In this version of Mac OS, plugin UI opens in Safari and works without problems.
+- Fixed bug with Avocode setting all layers visibility to visible.
+- Added handling for inactive accounts (expired trial, unpaid plan)
+- Few UI improvements
+
 ### 3.1.0 (January 29, 2016)
 - Fixed some errors that prevented 3.0.0 to launch
 - Changed the DMG and menu text
