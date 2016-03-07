@@ -22,7 +22,7 @@ This is a major new version that allows selective syncing of Sketch artboards. I
 ## Reporting bugs
 Please report bugs to team@avocode.com and include the `sketch-panels.log` file from Sketch Plugins folder
 
-Pugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in the window click the Settings icon in bottom left corner and select Show Plugins Folder...
+Plugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in the window click the Settings icon in bottom left corner and select Show Plugins Folder...
 
 
 ## Changelog
