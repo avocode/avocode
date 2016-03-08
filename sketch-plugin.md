@@ -1,23 +1,22 @@
-# Avocode Sketch Extension 3 Beta
-This is a major new version that allows selective syncing of Sketch artboards. It can be installed alongside the old extension version 2. This is how it looks:
+# Avocode Sketch Plugin 3
+This is a major new version that allows selective syncing of Sketch artboards. This is how it looks:
 
 <img src="https://upx.cz/BfD" width="760" height="642">
 
 ## Installation & Update
 1. Completely Quit Sketch
-2. Download the latest beta version
+2. Download the latest plugin version
 
    [<img src="https://upx.cz/Bfo" width="241" height="59">](https://manager.avocode.com/download/sketch-plugin-beta/mac/)
-3. Open the DMG and double click the sketchplugin file inside. It should open your Sketch automatically and install / update the extension
-4. Open the extension in menu `Plugins -> Avocode Sync 3.2`
+3. Open the DMG and double click the sketchplugin file inside. It should open your Sketch automatically and install / update the plugin
+4. Open the plugin in menu `Plugins -> Avocode Sync 3.2`
    
    <img src="https://upx.cz/BZk" width="224" height="126">
 
 ## Known bugs
-- The older extension is not removed and remains installed alongside the new one
-- You need to quit and re-launch sketch after you used the old extension (2.1.x) before opening Avocode Sync 3
+- You need to quit and re-launch sketch after you used the old plugin (2.1.x) before opening Avocode Sync 3
 - Sketch Pages are not exported at all, we might add that later if there is enough interest. Please [vote here](http://avocode.uservoice.com/forums/277080-feature-voting/suggestions/11634147-support-exporting-pages-in-sketch-extension-3) if you need that feature
-- If you use Sketch from App Store, the extension will not launch due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store) anyways
+- If you use Sketch from App Store, the plugin will not launch due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store) anyways
  
 ## Reporting bugs
 Please report bugs to team@avocode.com and include the `sketch-panels.log` file from Sketch Plugins folder
@@ -26,6 +25,13 @@ Plugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in 
 
 
 ## Changelog
+### 3.3.0 (March 8, 2016)
+- Added Cancel button to sync
+- Added a label that tells you when your last sync happened
+- New browser login that should fix all the previous problems with authorization
+- Fixed progress bar that was stuck at the beginning
+- Fixed window modality bug (now it doesn't overlap other apps, only Sketch)
+
 ### 3.2.0 (February 10, 2016)
 - Added fix for users with Yosemite that were not able to control plugin correctly. In this version of Mac OS, plugin UI opens in Safari and works without problems.
 - Fixed bug with Avocode setting all layers visibility to visible.
@@ -46,13 +52,13 @@ Plugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in 
 
 ### 3.0.0-prerelease3 (January 11, 2016)
 - you can now change project of already synced documents
-- faster extension loading
+- faster plugin loading
 - added new succes state after the syncing is complete
 - Sketch Beta support
 - detect plugin framework collision and prevent from running in that case (if you run old one in the same Sketch session)
 
 ### 3.0.0-prerelease2 (December 1, 2015)
-- hide social login. When we release the plugin, Avocode App will login the extension for you
+- hide social login. When we release the plugin, Avocode App will login the plugin for you
 - fixed aspect ratio of artboard thumbnails
 - when you update document, artboards you synced in the past will be preserved
 - build is about 40% smaller
