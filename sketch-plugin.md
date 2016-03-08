@@ -7,11 +7,9 @@ This is a major new version that allows selective syncing of Sketch artboards. T
 1. Completely Quit Sketch
 2. Download the latest plugin version
 
-   [<img src="https://upx.cz/Bfo" width="241" height="59">](https://manager.avocode.com/download/sketch-plugin-beta/mac/)
+   [<img src="https://upx.cz/Bfo" width="241" height="59">](https://manager.avocode.com/download/sketch-plugin/mac/)
 3. Open the DMG and double click the sketchplugin file inside. It should open your Sketch automatically and install / update the plugin
-4. Open the plugin in menu `Plugins -> Avocode Sync 3.2`
-   
-   <img src="https://upx.cz/BZk" width="224" height="126">
+4. Open the plugin in menu `Plugins -> Avocode Sync 3.3`
 
 ## Known bugs
 - You need to quit and re-launch sketch after you used the old plugin (2.1.x) before opening Avocode Sync 3
@@ -26,6 +24,7 @@ Plugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in 
 
 ## Changelog
 ### 3.3.0 (March 8, 2016)
+- With this release Sketch Plugin 3 is officially out of beta
 - Added Cancel button to sync
 - Added a label that tells you when your last sync happened
 - New browser login that should fix all the previous problems with authorization
