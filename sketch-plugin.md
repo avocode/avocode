@@ -21,6 +21,8 @@ Please report bugs to team@avocode.com and include the `sketch-panels.log` file 
 
 Plugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in the window click the Settings icon in bottom left corner and select Show Plugins Folder...
 
+If there is no `sketch-panels.log` it means the extension did not launch properly, please try opening the Console App -> All Messages and look for any errors when you launch the extension.
+
 
 ## Changelog
 ### 3.3.0 (March 8, 2016)
