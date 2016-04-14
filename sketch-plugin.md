@@ -22,7 +22,7 @@ If there is no `sketch-panels.log` it means the extension did not launch properl
 
 ## Changelog
 ### 3.4.0 (April 14, 2016)
-- Fixed sync of font layers that could cause whole artboard to fail in some cases [#827](https://github.com/avocode/avocode/issues/827)
+- Fixed sync of font layers that could cause whole artboard to fail in some cases [#827](https://github.com/avocode/avocode/issues/827) [#803](https://github.com/avocode/avocode/issues/803)
 - If you don't quit sketch before update, it should be handled better (no document open would be showed otherwise). This fix will only affect future updates
 - Updated DMG to mention that you need to Quit Sketch before installation
 
