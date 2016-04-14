@@ -1,8 +1,4 @@
 # Avocode Sketch Plugin 3
-This is a major new version that allows selective syncing of Sketch artboards. This is how it looks:
-
-<img src="https://upx.cz/BfD" width="760" height="642">
-
 ## Installation & Update
 1. Completely Quit Sketch
 2. Download the latest plugin version
@@ -25,6 +21,11 @@ If there is no `sketch-panels.log` it means the extension did not launch properl
 
 
 ## Changelog
+### 3.4.0 (April 14, 2016)
+- Fixed sync of font layers that could cause whole artboard to fail in some cases [#827](https://github.com/avocode/avocode/issues/827)
+- If you don't quit sketch before update, it should be handled better (no document open would be showed otherwise). This fix will only affect future updates
+- Updated DMG to mention that you need to Quit Sketch before installation
+
 ### 3.3.0 (March 8, 2016)
 - With this release Sketch Plugin 3 is officially out of beta
 - Added Cancel button to sync
