@@ -5,7 +5,7 @@
 
    [<img src="https://upx.cz/Bfo" width="241" height="59">](https://manager.avocode.com/download/sketch-plugin/mac/)
 3. Open the DMG and double click the sketchplugin file inside. It should open your Sketch automatically and install / update the plugin
-4. Open the plugin in menu `Plugins -> Avocode Sync 3.5`
+4. Open the plugin in menu `Plugins -> Avocode Sync 3.6`
 
 ## Known bugs
 - You need to quit and re-launch sketch after you used the old plugin (2.1.x) before opening Avocode Sync 3
@@ -21,6 +21,11 @@ If there is no `sketch-panels.log` it means the extension did not launch properl
 
 
 ## Changelog
+
+### 3.6.0 (May 25, 2016)
+- Fixed an issue that could lead to documents synced into each other even when you change a project
+- Fixed opening on Yosemite (with Safari 9.1.1 update) [#879](https://github.com/avocode/avocode/issues/879)
+
 ### 3.5.0 (May 5, 2016)
 - Fixed multiple issues that could prevent synced pages/artboards from appearing in Avocode
 - Improved logging so we can debug new issues more easily
