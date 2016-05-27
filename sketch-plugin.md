@@ -5,7 +5,7 @@
 
    [<img src="https://upx.cz/Bfo" width="241" height="59">](https://manager.avocode.com/download/sketch-plugin/mac/)
 3. Open the DMG and double click the sketchplugin file inside. It should open your Sketch automatically and install / update the plugin
-4. Open the plugin in menu `Plugins -> Avocode Sync 3.6`
+4. Open the plugin in menu `Plugins -> Avocode Sync 3.7`
 
 ## Known bugs
 - You need to quit and re-launch sketch after you used the old plugin (2.1.x) before opening Avocode Sync 3
@@ -22,6 +22,9 @@ If there is no `sketch-panels.log` it means the extension did not launch properl
 
 ## Changelog
 
+### 3.7.0 (May 27, 2016)
+- Fixed another issue with text layers that could cause whole artboard sync to fail in some rare cases
+
 ### 3.6.0 (May 25, 2016)
 - Fixed an issue that could lead to documents synced into each other even when you change a project
 - Fixed opening on Yosemite (with Safari 9.1.1 update) [#879](https://github.com/avocode/avocode/issues/879)
@@ -31,7 +34,7 @@ If there is no `sketch-panels.log` it means the extension did not launch properl
 - Improved logging so we can debug new issues more easily
 
 ### 3.4.0 (April 14, 2016)
-- Fixed sync of font layers that could cause whole artboard to fail in some cases [#827](https://github.com/avocode/avocode/issues/827) [#803](https://github.com/avocode/avocode/issues/803)
+- Fixed sync of text layers that could cause whole artboard to fail in some cases [#827](https://github.com/avocode/avocode/issues/827) [#803](https://github.com/avocode/avocode/issues/803)
 - If you don't quit sketch before update, it should be handled better (no document open would be showed otherwise). This fix will only affect future updates
 - Updated DMG to mention that you need to Quit Sketch before installation
 
