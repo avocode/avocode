@@ -9,6 +9,7 @@
 
 ## Known bugs
 - You need to quit and re-launch sketch after you used the old plugin (2.1.x) before opening Avocode Sync 3
+- If you duplicate already synced document (or artboard) to a new document it will still sync to the original design. You can fix it by syncing to a different project or by running [this workaround script](sync-as-new-design.md)
 - Sketch Pages are not exported at all, we might add that later if there is enough interest. Please [vote here](http://avocode.uservoice.com/forums/277080-feature-voting/suggestions/11634147-support-exporting-pages-in-sketch-extension-3) if you need that feature
 - If you use Sketch from App Store, the plugin will not launch due to sandboxing issues. Use the build from http://sketchapp.com/ please, Sketch is now [leaving App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store) anyways
  
