@@ -22,9 +22,11 @@ If there is no `sketch-panels.log` it means the extension did not launch properl
 
 
 ## Changelog
+### 3.9.0 (September 14, 2016)
+- Sketch 40 Support
 
-### 3.8.0 (Jul 20, 2016)
-- Support Sketch 3.9
+### 3.8.0 (July 20, 2016)
+- Sketch 39 Support
 
 ### 3.7.0 (May 27, 2016)
 - Fixed another issue with text layers that could cause whole artboard sync to fail in some rare cases
