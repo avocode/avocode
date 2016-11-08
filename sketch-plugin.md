@@ -22,6 +22,10 @@ If there is no `sketch-panels.log` it means the extension did not launch properl
 
 
 ## Changelog
+### 41.0.0 (November 8, 2016)
+- Sketch 41 Support
+- changed versioning to mirror supported Sketch version. Sketch 39 and 40 are still supported by this version.
+
 ### 3.9.0 (September 14, 2016)
 - Sketch 40 Support
 
