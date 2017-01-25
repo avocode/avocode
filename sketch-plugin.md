@@ -1,11 +1,11 @@
-# Avocode Sketch Plugin 3
+# Avocode Sketch Plugin
 ## Installation & Update
 1. Completely Quit Sketch
 2. Download the latest plugin version
 
    [<img src="https://upx.cz/Bfo" width="241" height="59">](https://manager.avocode.com/download/sketch-plugin/mac/)
 3. Open the DMG and double click the sketchplugin file inside. It should open your Sketch automatically and install / update the plugin
-4. Open the plugin in menu `Plugins -> Avocode Sync 3.8`
+4. Open the plugin in menu `Plugins -> Avocode Sync 42`
 
 ## Known bugs
 - You need to quit and re-launch sketch after you used the old plugin (2.1.x) before opening Avocode Sync 3
@@ -22,6 +22,10 @@ If there is no `sketch-panels.log` it means the extension did not launch properl
 
 
 ## Changelog
+### 42.0.0 (January 25, 2017)
+- Sketch 42 Support on El Capitan 10.11.6
+- when you hover over Artboard name, the full name will be showed
+
 ### 41.0.0 (November 8, 2016)
 - Sketch 41 Support
 - changed versioning to mirror supported Sketch version. Sketch 39 and 40 are still supported by this version.
