@@ -26,7 +26,7 @@ If there is no `sketch-panels.log` it means the extension did not launch properl
 - Faster upload which doesn't freeze Sketch app during design upload
 - Shortcut to upload selected artboards (CMD + E)
 - Shortcut to upload all artboards from a Sketch file (CMD + ALT + E)
-- [Read more] (https://help.avocode.com/projects-and-designs/design-upload/upload-sketch-designs-via-avocode-sketch-plugin)
+- [Read more](https://help.avocode.com/projects-and-designs/design-upload/upload-sketch-designs-via-avocode-sketch-plugin)
 
 ### 42.0.0 (January 25, 2017)
 - Sketch 42 Support on El Capitan 10.11.6
