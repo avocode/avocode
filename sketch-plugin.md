@@ -22,10 +22,11 @@ If there is no `sketch-panels.log` it means the extension did not launch properl
 ## Changelog
 ### 43.0.0 (June 14, 2017)
 - Sketch 41 Support
-- Bundled and installed automatically with the Avocode macOS app
+- Bundled and installed automatically with the Avocode macOS desktop app
 - Faster upload which doesn't freeze Sketch app during design upload
 - Shortcut to upload selected artboards (CMD + E)
 - Shortcut to upload all artboards from a Sketch file (CMD + ALT + E)
+- Seamless UX (no UI - the shortcut will automatically launch Avocode so you can add the artboard to a particular project)
 - [Read more](https://help.avocode.com/projects-and-designs/design-upload/upload-sketch-designs-via-avocode-sketch-plugin)
 
 ### 42.0.0 (January 25, 2017)
