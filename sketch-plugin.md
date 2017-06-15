@@ -16,7 +16,7 @@ You can now sync artboards via a simple shortcut. Either CMD+E to upload selecte
 
 
 ## Changelog
-### 43.0.0 (June 14, 2017)
+### 43.0.0 (June 15, 2017)
 - Sketch 41 Support
 - Bundled and installed automatically with the Avocode macOS desktop app
 - Faster upload which doesn't freeze Sketch app during design upload
