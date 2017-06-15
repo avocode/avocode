@@ -1,12 +1,14 @@
 # Avocode Sketch Plugin
 ## Installation & Update
-1. Completely Quit Sketch
+1. If your Sketch app is open, please quit it.
 2. [Download the latest Avocode macOS desktop app update](https://avocode.com/download).
 The Sketch plugin is bundled with the Avocode desktop app, so you don't have to download anything else.
 3. Double click on the downloaded DMG file to install it and the Sketch plugin will be installed automatically installed with it.
 4. Open your Sketch app and go to 'Plugins' in the top window menu. The Avocode plugin should be there.
 
-Note that the Sketch plugin requires you to have Avocode desktop app (2.14.3 and later) and Sketch (41 and later), therefore it works only on macOS. Direct upload of Sketch files also for Windows and Linux - independent on the Sketch app - is coming soon.
+Note that the Sketch plugin requires you to have Avocode desktop app (2.14.3 and later) and Sketch (41 and later), therefore it works only on macOS. It will automatically overwrite the older plugin version.
+
+FYI: Direct upload of Sketch files also for Windows and Linux - independent on the Sketch app - is coming soon.
  
 ## How to upload Sketch designs to Avocode?
 You can now sync artboards via a simple shortcut. Either CMD+E to upload selected artboards, or CMD+ALT+E to upload all artboards within the Sketch file. The Avocode app will launch so you can add the artboards to a particular project.
@@ -26,6 +28,7 @@ You can now sync artboards via a simple shortcut. Either CMD+E to upload selecte
 ### 42.0.0 (January 25, 2017)
 - Sketch 42 Support on El Capitan 10.11.6
 - when you hover over Artboard name, the full name will be showed
+- download the [DEPRECATED version](https://manager.avocode.com/download/sketch-plugin/mac/)
 
 ### 41.0.0 (November 8, 2016)
 - Sketch 41 Support
