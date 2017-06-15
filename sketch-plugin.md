@@ -1,7 +1,7 @@
 # Avocode Sketch Plugin
 ## Installation & Update
 1. If your Sketch app is open, please quit it.
-2. [Download the latest Avocode macOS desktop app update](https://avocode.com/download).
+2. [Download the latest Avocode macOS desktop app](https://avocode.com/download).
 The Sketch plugin is bundled with the Avocode desktop app, so you don't have to download anything else.
 3. Double click on the downloaded DMG file to install it and the Sketch plugin will be installed automatically installed with it.
 4. Open your Sketch app and go to 'Plugins' in the top window menu. The Avocode plugin should be there.
