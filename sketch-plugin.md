@@ -1,22 +1,16 @@
 # Avocode Sketch Plugin
 ## Installation & Update
 1. Completely Quit Sketch
-2. Download the latest plugin version
+2. [Download the latest Avocode macOS desktop app update](https://avocode.com/download).
+The Sketch plugin is bundled with the Avocode desktop app, so you don't have to download anything else.
+3. Double click on the downloaded DMG file to install it and the Sketch plugin will be installed automatically installed with it.
+4. Open your Sketch app and go to 'Plugins' in the top window menu. The Avocode plugin should be there.
 
-   [<img src="https://upx.cz/Bfo" width="241" height="59">](https://manager.avocode.com/download/sketch-plugin/mac/)
-3. Open the DMG and double click the sketchplugin file inside. It should open your Sketch automatically and install / update the plugin
-4. Open the plugin in menu `Plugins -> Avocode Sync 42`
-
-## Known bugs
-- If you duplicate already synced document (or artboard) to a new document it will still sync to the original design. You can fix this by syncing to a different project or by running [custom workaround script](sync-as-new-design.md)
-- Sketch Pages are not exported at all, we might add that later if there is enough interest. Please [vote here](http://avocode.uservoice.com/forums/277080-feature-voting/suggestions/11634147-support-exporting-pages-in-sketch-extension-3) if you need that feature
+Note that the Sketch plugin requires you to have Avocode desktop app (2.14.3 and later) and Sketch (41 and later), therefore it works only on macOS. Direct upload of Sketch files also for Windows and Linux - independent on the Sketch app - is coming soon.
  
-## Reporting bugs
-Please report bugs to team@avocode.com and include the `sketch-panels.log` file from Sketch Plugins folder
-
-Plugin folder can be accessed from Sketch menu Plugins -> Manage Plugins and in the window click the Settings icon in bottom left corner and select Show Plugins Folder...
-
-If there is no `sketch-panels.log` it means the extension did not launch properly, please try opening the Console App -> All Messages and look for any errors when you launch the extension.
+## How to upload Sketch designs to Avocode?
+You can now sync artboards via a simple shortcut. Either CMD+E to upload selected artboards, or CMD+ALT+E to upload all artboards within the Sketch file. The Avocode app will launch so you can add the artboards to a particular project.
+[Learn more about syncing Sketch designs to Avocode](https://help.avocode.com/projects-and-designs/design-upload/upload-sketch-designs-via-avocode-sketch-plugin).
 
 
 ## Changelog
