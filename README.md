@@ -4,7 +4,8 @@
   </a>
 </p>
 
-# Avocode app
+
+# Avocode app [![Join the Avocode Community on Slack](https://community.avocode.com/badge.svg)](https://community.avocode.com)
 
 > Design inspector for developers. Get CSS, SVG, image assets, fonts, colors. All without Photoshop or Sketch.
 
